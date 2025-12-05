@@ -58,5 +58,8 @@ logical easy-to-understand structure:
 - **Experience**
 This structure is intentionally semantic and ready for styling in future roadmap projects.
 
-## 🙌 Credits This project follows the **Single-Page CV** challenge from Roadmap.sh: 👉 [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
-```
+## 🙌 Credits
+
+This project follows the **Single-Page CV** challenge from Roadmap.sh:  
+👉 [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
+
